@@ -7,24 +7,36 @@
 - 🌲 **Interests:** Software engineering and RPA
 - 🌎 **Languages:** Portuguese | English
 
-<div>
-  <a href="https://github.com/floresdecarbono">
-    <img height="140em" src="https://github-readme-stats.vercel.app/api?username=floresdecarbono&show_icons=true&theme=dark"/>
-    <br>
-    <img height="157em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=floresdecarbono&layout=compact&theme=dark" />
-</div>
-
+<hr>
+<h3>🕹️ My Stack:</h2>
+<h3>👾 Langs n' Framworks</h3>
 <div style="display: inline_block">
-  <br>
-  <img align="center" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-<img align="center" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-  <img align="center" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-  <img align="center" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-  <img align="center" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-  <img align="center" height="50" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
-
-  
+  <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+  <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+  <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
 </div>
+
+
+<h3>📁 Databases</h3>
+  <div style="display: inline_block">
+  <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+  <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+  <img align="center" height="50" width="60" src=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg />
+</div>
+</h3>
+<hr>
+
+<div>
+   <a href="https://github.com/floresdecarbono">
+    <img align="left" height="200" src="https://github-readme-stats.vercel.app/api?username=floresdecarbono&show_icons=true&theme=dark"/>
+    <br>
+    <img align="left" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=floresdecarbono&layout=compact&theme=dark" />
+</div>
+
+
 <!--
 **floresdecarbono/floresdecarbono** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
