@@ -1,6 +1,6 @@
 ## 💾 Hi! I am João Vítor
 
-- 🌲 Brazilian
+- 🇧🇷 Brazilian
 - 👨‍🎓 Information Systems bachelor, at UFPB
 - ☕ Back-End lover and Java enthusiast
 - 💿 **Currently studying:** Spring Framework
