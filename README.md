@@ -3,8 +3,8 @@
 - 🇧🇷 Brazilian
 - 👨‍🎓 Information Systems bachelor, at UFPB
 - ☕ Back-End lover and Java enthusiast
-- 💿 **Currently studying:** Spring Framework
-- 🌲 **Interests:** Software engineering and RPA
+- 💿 **Currently studying:** Spring Framework, NodeJS and ReactJS
+- 🌲 **Interests:** Software engineering and DevOps
 - 🌎 **Languages:** Portuguese | English
 
 <hr>
