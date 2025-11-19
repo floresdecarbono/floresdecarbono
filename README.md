@@ -13,7 +13,7 @@
 <div style="display: inline_block">
 <p align="left">
     <a href="https://skill-icons-builder.vercel.app/">
-      <img src="https://skillicons.dev/icons?i=html,css,javascript,java,py,nodejs,spring,express&perline=10" />
+      <img src="https://skillicons.dev/icons?i=html,css,javascript,java,py,nodejs,spring,express,react&perline=10" />
     </a>
   </p>
 </div>
